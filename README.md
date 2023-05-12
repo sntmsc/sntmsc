@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, soy Santiago</h1>
 <h3 align="center">Fullstack developer</h3>
 
-- 🌱 Manejo tecnologías como **React, Next JS, Typescript, Node, MongoDB, SQL, entre otras.**
+- 🌱 Manejo tecnologías como **React, Next JS, Typescript, Node, Nest JS, Prisma, MongoDB, SQL, entre otras.**
 
 - 📫 Podés contactarme a través de mi e-mail **santiago.hamber@gmail.com**
 
